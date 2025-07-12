@@ -1,0 +1,414 @@
+--------------- Welcome to Traffic Ticketing System ---------------
+
+--------------- Ticket Information ---------------
+		Ticket No= 1
+		Violation Code=Red-light
+		Degree= 3
+		Violation Amount=5000.0
+		Has Valid Insurance= Valid
+
+Vehicle Information
+		VehiclePlateNo= OEN-4432
+		Brand= Lexus
+		VehicleModel= LX570
+		BuiltYear= 2011
+
+Driver Information
+ 		nationalID= 2342114502
+		Name= Jamal Albara
+		YearOfBirth= 1992
+
+Total Penalty: 5000.0
+
+--------------- Ticket Information ---------------
+		Ticket No= 2
+		Violation Code=Red-light
+		Degree= 2
+		Violation Amount=2000.0
+		Has Valid Insurance= Not Valid
+
+Vehicle Information
+		VehiclePlateNo= GKW-9509
+		Brand= Kia
+		VehicleModel= Sportage
+		BuiltYear= 2013
+
+Driver Information
+ 		nationalID= 2225198408
+		Name= Abdul Rehman
+		YearOfBirth= 2004
+
+Total Penalty: 2500.0
+
+--------------- Ticket Information ---------------
+		Ticket No= 3
+		Violation Code=Speeding
+		Degree= 2
+		Violation Amount=400.0
+		Has Valid Insurance= Valid
+
+Vehicle Information
+		VehiclePlateNo= PFK-9886
+		Brand= Honda
+		VehicleModel= Accord
+		BuiltYear= 2019
+
+Driver Information
+ 		nationalID= 2225198408
+		Name= Abdul Rehman
+		YearOfBirth= 2004
+
+Total Penalty: 400.0
+
+--------------- Ticket Information ---------------
+		Ticket No= 4
+		Violation Code=No-parking
+		Degree= 1
+		Violation Amount=100.0
+		Has Valid Insurance= Not Valid
+
+Vehicle Information
+		VehiclePlateNo= XBN-3662
+		Brand= Toyota
+		VehicleModel= Fortuner
+		BuiltYear= 2009
+
+Driver Information
+ 		nationalID= 2546834724
+		Name= Malick Ghazi
+		YearOfBirth= 2005
+
+Total Penalty: 1600.0
+
+--------------- Ticket Information ---------------
+		Ticket No= 5
+		Violation Code=Red-light
+		Degree= 3
+		Violation Amount=5000.0
+		Has Valid Insurance= Not Valid
+
+Vehicle Information
+		VehiclePlateNo= GKW-9509
+		Brand= Kia
+		VehicleModel= Sportage
+		BuiltYear= 2013
+
+Driver Information
+ 		nationalID= 2845898568
+		Name= Hamid Farouk
+		YearOfBirth= 1996
+
+Total Penalty: 5500.0
+
+--------------- Ticket Information ---------------
+		Ticket No= 6
+		Violation Code=No-parking
+		Degree= 1
+		Violation Amount=100.0
+		Has Valid Insurance= Valid
+
+Vehicle Information
+		VehiclePlateNo= IUN-7806
+		Brand= Suzuki
+		VehicleModel= ry
+		BuiltYear= 2011
+
+Driver Information
+ 		nationalID= 2225198408
+		Name= Abdul Rehman
+		YearOfBirth= 2004
+
+Total Penalty: 100.0
+
+--------------- Ticket Information ---------------
+		Ticket No= 7
+		Violation Code=Red-light
+		Degree= 2
+		Violation Amount=2000.0
+		Has Valid Insurance= Not Valid
+
+Vehicle Information
+		VehiclePlateNo= ZMJ-6244
+		Brand= Mazda
+		VehicleModel= T3500
+		BuiltYear= 2017
+
+Driver Information
+ 		nationalID= 2345347676
+		Name= Abdul Rehman
+		YearOfBirth= 2002
+
+Total Penalty: 2500.0
+
+--------------- Ticket Information ---------------
+		Ticket No= 8
+		Violation Code=Red-light
+		Degree= 1
+		Violation Amount=1000.0
+		Has Valid Insurance= Not Valid
+
+Vehicle Information
+		VehiclePlateNo= PFK-9886
+		Brand= Honda
+		VehicleModel= Accord
+		BuiltYear= 2019
+
+Driver Information
+ 		nationalID= 2546834724
+		Name= Malick Ghazi
+		YearOfBirth= 2005
+
+Total Penalty: 2500.0
+
+--------------- Ticket Information ---------------
+		Ticket No= 9
+		Violation Code=Speeding
+		Degree= 1
+		Violation Amount=300.0
+		Has Valid Insurance= Valid
+
+Vehicle Information
+		VehiclePlateNo= MSS-9121
+		Brand= Toyota
+		VehicleModel= Corolla
+		BuiltYear= 2017
+
+Driver Information
+ 		nationalID= 2225198408
+		Name= Abdul Rehman
+		YearOfBirth= 2004
+
+Total Penalty: 300.0
+
+--------------- Ticket Information ---------------
+		Ticket No= 10
+		Violation Code=Red-light
+		Degree= 1
+		Violation Amount=1000.0
+		Has Valid Insurance= Not Valid
+
+Vehicle Information
+		VehiclePlateNo= ORW-2024
+		Brand= Lexus
+		VehicleModel= RX470
+		BuiltYear= 2017
+
+Driver Information
+ 		nationalID= 2342114502
+		Name= Jamal Albara
+		YearOfBirth= 1992
+
+Total Penalty: 1500.0
+
+--------------- Ticket Information ---------------
+		Ticket No= 11
+		Violation Code=Wrong-way
+		Degree= 2
+		Violation Amount=1000.0
+		Has Valid Insurance= Not Valid
+
+Vehicle Information
+		VehiclePlateNo= PFK-9886
+		Brand= Honda
+		VehicleModel= Accord
+		BuiltYear= 2019
+
+Driver Information
+ 		nationalID= 2225198408
+		Name= Abdul Rehman
+		YearOfBirth= 2004
+
+Total Penalty: 1500.0
+
+--------------- Ticket Information ---------------
+		Ticket No= 12
+		Violation Code=Red-light
+		Degree= 1
+		Violation Amount=1000.0
+		Has Valid Insurance= Not Valid
+
+Vehicle Information
+		VehiclePlateNo= QYN-3002
+		Brand= Volvo
+		VehicleModel= FMR
+		BuiltYear= 2017
+
+Driver Information
+ 		nationalID= 2342114502
+		Name= Jamal Albara
+		YearOfBirth= 1992
+
+Total Penalty: 1500.0
+
+--------------- Ticket Information ---------------
+		Ticket No= 13
+		Violation Code=Speeding
+		Degree= 1
+		Violation Amount=300.0
+		Has Valid Insurance= Valid
+
+Vehicle Information
+		VehiclePlateNo= ANG-3456
+		Brand= Toyota
+		VehicleModel= Corolla
+		BuiltYear= 2017
+
+Driver Information
+ 		nationalID= 2912367457
+		Name= Bandar Omar
+		YearOfBirth= 1963
+
+Total Penalty: 300.0
+
+--------------- Ticket Information ---------------
+		Ticket No= 14
+		Violation Code=Wrong-way
+		Degree= 1
+		Violation Amount=500.0
+		Has Valid Insurance= Not Valid
+
+Vehicle Information
+		VehiclePlateNo= DDV-2087
+		Brand= KIA
+		VehicleModel= Optima
+		BuiltYear= 2013
+
+Driver Information
+ 		nationalID= 2845898568
+		Name= Hamid Farouk
+		YearOfBirth= 1996
+
+Total Penalty: 1000.0
+
+--------------- Ticket Information ---------------
+		Ticket No= 15
+		Violation Code=Speeding
+		Degree= 2
+		Violation Amount=400.0
+		Has Valid Insurance= Valid
+
+Vehicle Information
+		VehiclePlateNo= ORW-2024
+		Brand= Lexus
+		VehicleModel= RX470
+		BuiltYear= 2017
+
+Driver Information
+ 		nationalID= 2225198408
+		Name= Abdul Rehman
+		YearOfBirth= 2004
+
+Total Penalty: 400.0
+
+--------------- Ticket Information ---------------
+		Ticket No= 16
+		Violation Code=Wrong-way
+		Degree= 2
+		Violation Amount=1000.0
+		Has Valid Insurance= Valid
+
+Vehicle Information
+		VehiclePlateNo= QYN-3002
+		Brand= Volvo
+		VehicleModel= FMR
+		BuiltYear= 2017
+
+Driver Information
+ 		nationalID= 2912367457
+		Name= Bandar Omar
+		YearOfBirth= 1963
+
+Total Penalty: 1000.0
+
+--------------- Ticket Information ---------------
+		Ticket No= 17
+		Violation Code=Red-light
+		Degree= 3
+		Violation Amount=5000.0
+		Has Valid Insurance= Not Valid
+
+Vehicle Information
+		VehiclePlateNo= IQS-7792
+		Brand= Honda
+		VehicleModel= Civic
+		BuiltYear= 2014
+
+Driver Information
+ 		nationalID= 2345347676
+		Name= Abdul Rehman
+		YearOfBirth= 2002
+
+Total Penalty: 5500.0
+
+--------------- Ticket Information ---------------
+		Ticket No= 18
+		Violation Code=No-parking
+		Degree= 1
+		Violation Amount=100.0
+		Has Valid Insurance= Valid
+
+Vehicle Information
+		VehiclePlateNo= MSS-9121
+		Brand= Toyota
+		VehicleModel= Corolla
+		BuiltYear= 2017
+
+Driver Information
+ 		nationalID= 2546834724
+		Name= Malick Ghazi
+		YearOfBirth= 2005
+
+Total Penalty: 1100.0
+
+--------------- Ticket Information ---------------
+		Ticket No= 19
+		Violation Code=Wrong-way
+		Degree= 1
+		Violation Amount=500.0
+		Has Valid Insurance= Valid
+
+Vehicle Information
+		VehiclePlateNo= QPL-1002
+		Brand= Mercedes
+		VehicleModel= DLX
+		BuiltYear= 2018
+
+Driver Information
+ 		nationalID= 2912367457
+		Name= Bandar Omar
+		YearOfBirth= 1963
+
+Total Penalty: 500.0
+
+--------------- Ticket Information ---------------
+		Ticket No= 20
+		Violation Code=No-parking
+		Degree= 1
+		Violation Amount=100.0
+		Has Valid Insurance= Valid
+
+Vehicle Information
+		VehiclePlateNo= XBN-3662
+		Brand= Toyota
+		VehicleModel= Fortuner
+		BuiltYear= 2009
+
+Driver Information
+ 		nationalID= 2474747448
+		Name= Qasim Nasr
+		YearOfBirth= 1971
+
+Total Penalty: 100.0
+
+--------Total Violation(s) Per Driver--------
+Driver ID           Driver Name        Total Violation(s)
+2021236524			Ahmed Shamrani			0
+2342114502			Jamal Albara			3
+2225198408			Abdul Rehman			6
+2474747448			Qasim Nasr			1
+2908967685			Sahl Zahrani			0
+2345347676			Abdul Rehman			2
+2546834724			Malick Ghazi			3
+2912367457			Bandar Omar			3
+2134367222			Khaled Bara			0
+2845898568			Hamid Farouk			2

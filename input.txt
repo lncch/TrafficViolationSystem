@@ -1,0 +1,58 @@
+20 10
+4
+20
+AddVehicle ANG-3456 Toyota Corolla 2017
+AddVehicle GKW-9509 Kia Sportage 2013
+AddVehicle MSS-9121 Toyota Corolla 2017
+AddVehicle PLO-1059 Ford F160 2008
+AddVehicle ZBV-1743 Nissan Navara 2012
+AddVehicle IQS-7792 Honda Civic 2014
+AddVehicle SGH-6258 Honda CRV 2015
+AddVehicle HGD-1253 Mercedes AMG 2017
+AddVehicle FKD-1421 Toyota Hilux 2018
+AddVehicle OEN-4432 Lexus LX570 2011
+AddVehicle OFM-8546 MAN TGS 2008
+AddVehicle XBN-3662 Toyota Fortuner 2009
+AddVehicle ZMJ-6244 Mazda T3500 2017
+AddVehicle PFK-9886 Honda Accord 2019
+AddVehicle QYN-3002 Volvo FMR 2017
+AddVehicle DDV-2087 KIA Optima 2013
+AddVehicle IUN-7806 Suzuki ry 2011
+AddVehicle PSO-4502 Mercedes S500 2013
+AddVehicle ORW-2024 Lexus RX470 2017
+AddVehicle QPL-1002 Mercedes DLX 2018
+AddDriver 2021236524 Ahmed Shamrani 1989
+AddDriver 2342114502 Jamal Albara 1992
+AddDriver 2225198408 Abdul Rehman 2004
+AddDriver 2474747448 Qasim Nasr 1971
+AddDriver 2908967685 Sahl Zahrani 1985
+AddDriver 2345347676 Abdul Rehman 2002
+AddDriver 2546834724 Malick Ghazi 2005
+AddDriver 2912367457 Bandar Omar 1963
+AddDriver 2134367222 Khaled Bara 1995
+AddDriver 2845898568 Hamid Farouk 1996
+AddViolation Red-light 3 1000 2000 5000
+AddViolation Speeding 2 300 400
+AddViolation No-parking 1 100
+AddViolation Wrong-way 2 500 1000
+IssueTicket OEN-4432 2342114502 Red-light 3 true 
+IssueTicket GKW-9509 2225198408 Red-light 2 false
+IssueTicket PFK-9886 2225198408 Speeding 2 true
+IssueTicket XBN-3662 2546834724 No-parking 1 false
+IssueTicket GKW-9509 2845898568 Red-light 3 false
+IssueTicket IUN-7806 2225198408 No-parking 1 true 
+IssueTicket ZMJ-6244 2345347676 Red-light 2 false
+IssueTicket PFK-9886 2546834724 Red-light 1 false 
+IssueTicket MSS-9121 2225198408 Speeding 1 true
+IssueTicket ORW-2024 2342114502 Red-light 1 false
+IssueTicket PFK-9886 2225198408 Wrong-way 2 false 
+IssueTicket QYN-3002 2342114502 Red-light 1 false
+IssueTicket ANG-3456 2912367457 Speeding 1 true 
+IssueTicket DDV-2087 2845898568 Wrong-way 1 false 
+IssueTicket ORW-2024 2225198408 Speeding 2 true
+IssueTicket QYN-3002 2912367457 Wrong-way 2 true
+IssueTicket IQS-7792 2345347676 Red-light 3 false
+IssueTicket MSS-9121 2546834724 No-parking 1 true
+IssueTicket QPL-1002 2912367457 Wrong-way 1 true
+IssueTicket XBN-3662 2474747448 No-parking 1 true
+Quit
