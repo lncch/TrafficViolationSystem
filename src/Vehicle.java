@@ -1,11 +1,4 @@
 /**
- Name: Al-Moayyad Abuljdail
- ID: 2435891
- Section: C11
- Assignment No.: 1
- **/
-
-/**
  * Represents a vehicle in the system.
  * This class stores information about a vehicle,
  * including its plate number, brand, model, and manufacturing year.
