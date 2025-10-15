@@ -1,10 +1,3 @@
-/**
- * Name: Al-Moayyad Abuljdail
- * ID: 2435891
- * Section: C11
- * Assignment No.: 1
- **/
-
 import java.io.*;
 import java.util.*;
 
