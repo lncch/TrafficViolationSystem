@@ -1,5 +1,3 @@
-
-
 /**
  * Represents a driver in the system.
  * This class stores information about a driver, including their national ID,
