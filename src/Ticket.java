@@ -1,11 +1,4 @@
 /**
- Name: Al-Moayyad Abuljdail
- ID: 2435891
- Section: C11
- Assignment No.: 1
- **/
-
-/**
  * Represents a traffic ticket in the system.
  * This class stores information about a traffic violation,
  * including details of the violating driver, the vehicle involved,
